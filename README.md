@@ -34,13 +34,13 @@
     <a href="https://shakilsarkar12.github.io/portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-7289DA?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge" />
    </a>
-    <a href="https://www.linkedin.com/in/rasel-sarker-405160227/" target="_blank">
+    <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://www.facebook.com/md.shakilsarker.5832" target="_blank" >
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a>
-  <a href="https://www.facebook.com/mdrasel.sarker.7773631" target="_blank" >
+  <a href="https://www.facebook.com/md.shakilsarker.5832" target="_blank" >
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   
