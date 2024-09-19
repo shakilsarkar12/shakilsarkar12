@@ -27,28 +27,28 @@
 
 
 <div align="center>
-   <a href="mailto:rasel.sarker6933@gmail.com" target="_blank">
+   <a href="mailto:shakil.sarkar1932@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
  </a>
   </a>
-    <a href="https://my-portfolio-eight-ebon-51.vercel.app/" target="_blank">
+    <a href="https://shakilsarkar12.github.io/portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-7289DA?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge" />
    </a>
     <a href="https://www.linkedin.com/in/rasel-sarker-405160227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.facebook.com/mdrasel.sarker.7773631" target="_blank" >
+  <a href="https://www.facebook.com/md.shakilsarker.5832" target="_blank" >
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a>
   <a href="https://www.facebook.com/mdrasel.sarker.7773631" target="_blank" >
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   
-  <a href="https://www.youtube.com/channel/UCmUXb0GVw5HfF7DBSg8rqAg" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a>
   
-  <a href="rasel_sarker" target="_blank" >
+  <a href="shakil_sarkar" target="_blank" >
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
 </div>
