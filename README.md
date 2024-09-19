@@ -150,7 +150,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakilsarkar12&show_icons=true&locale=en&layout=compact&theme=dark" alt="shakilsarkar12" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en&theme=dark" alt="shakilsarkar12" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselsarker11&theme=dark" alt="shakilsarkar12" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilsarkar12&theme=dark" alt="shakilsarkar12" /></p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
