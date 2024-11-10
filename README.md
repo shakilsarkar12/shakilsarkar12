@@ -4,8 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=36&center=true&vCenter=true&lines=I'Md+Shakil+Sarkar👋." alt="Typing SVG" /></a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker69&label=Profile%20views&color=0e75b6&style=flat" alt="shakilsarkar12" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raselsarker69&label=Profile%20views&color=0e75b6&style=flat" alt="raselsarker69" /> </p>
 <h3 align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=40px valign="bottom"> A Passionate Python / Django    Developer from Remote or On-site 
 </h3>
