@@ -106,8 +106,10 @@
 
 ---
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Shoot+me+a+message+on+LinkedIn!+📬;Thanks+for+visiting+my+profile+🙏" alt="Typing SVG" />
-  </a>
-</h1>
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shakilsarkar12/shakilsarkar12/blob/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shakilsarkar12/shakilsarkar12/blob/dist/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/shakilsarkar12/shakilsarkar12/blob/dist/github-snake.svg" />
+</picture>
