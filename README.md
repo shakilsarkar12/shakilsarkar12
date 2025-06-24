@@ -125,3 +125,97 @@ Proudly created with GPRM ( https://gprm.itsvg.in )
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Shoot+me+a+message+in+linkedin!+👋;+Thanks+for+visiting+my+profile" alt="Typing  SVG" /></a>
 </h1> 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">👋 হ্যালো, আমি শাকিল সরকার</h1>
+<h3 align="center">একজন আগ্রহী ফ্রন্টএন্ড ও ফুলস্ট্যাক ওয়েব ডেভেলপার</h3>
+
+<p align="center">
+  <a href="https://github.com/shakilsarkar12">
+    <img src="https://komarev.com/ghpvc/?username=shakilsarkar12&label=Profile%20views&color=0e75b6&style=flat" alt="shakilsarkar12" />
+  </a>
+</p>
+
+---
+
+### 🧑‍💻 আমার সম্পর্কে
+
+- 💻 বর্তমানে আমি একজন ফ্রন্টএন্ড ডেভেলপার হিসেবে কাজ করছি
+- 🌱 এখন আমি **React, Node.js, MongoDB** নিয়ে গভীরভাবে কাজ করছি
+- 🚀 আমি এমন প্রজেক্ট তৈরি করতে পছন্দ করি যা ইউজারদের জন্য সহজ এবং কার্যকরী
+- 📫 আমার সাথে যোগাযোগ করতে পারো: **shakilsarkar12@gmail.com**
+
+---
+
+### 🚀 আমার টেকনোলজি স্কিলস
+
+#### Frontend:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+
+#### Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+
+#### Database:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### Tools & Platforms:
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+
+---
+
+### 📈 GitHub পরিসংখ্যান
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakilsarkar12&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakilsarkar12&theme=radical" alt="streak" />
+</p>
+
+---
+
+### 📌 সাম্প্রতিক প্রজেক্ট সমূহ
+
+- 🔗 [Plant Care Tracker](https://github.com/shakilsarkar12/plant-care-tracker) – গাছের যত্নের জন্য একটি ফুলস্ট্যাক অ্যাপ
+- 🔗 [Career Code](https://github.com/shakilsarkar12/career-code) – একটি জব পোর্টাল প্ল্যাটফর্ম
+- 🔗 আরও প্রজেক্ট দেখতে আমার রেপো চেক করুন
+
+---
+
+### 🙏 ধন্যবাদ আমার প্রোফাইলে ভিজিট করার জন্য!
+
+> “শিখে যাও, শেয়ার করো, উন্নতি করো।”
+
+
