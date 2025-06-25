@@ -1,3 +1,8 @@
+<P>
+  <img src="https://github.com/shakilsarkar12/shakilsarkar12/blob/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner.png?raw=true" alt="shakilsarkar12" />
+</P>
+
+
 <h1 align="center">
   <p>Hi there 👋, Welcome to My Coding Playground!</p>
 <a href="https://git.io/typing-svg">
