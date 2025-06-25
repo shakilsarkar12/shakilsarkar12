@@ -153,7 +153,8 @@
 </h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shakilsarkar12/shakilsarkar12/blob/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shakilsarkar12/shakilsarkar12/blob/dist/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/shakilsarkar12/shakilsarkar12/blob/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
 </picture>
+
