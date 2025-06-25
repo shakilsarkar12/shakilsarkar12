@@ -97,7 +97,9 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 
-
+<p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="shakilsarkar12"/>
+</p>
 
 ### 📊 GitHub Stats
 
