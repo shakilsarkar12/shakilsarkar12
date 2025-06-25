@@ -26,7 +26,9 @@
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
 - 📧 Reach me at: **shakil.sarkar1932@gmail.com**
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ### 🤝 Connect With Me
 
@@ -51,7 +53,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 🚀 Tech Stack
 
@@ -97,9 +101,10 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 
-<p>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="shakilsarkar12"/>
-</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>>
+
 
 ### 📊 GitHub Stats
 
@@ -112,7 +117,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakilsarkar12&theme=dark" width="90%" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 ## 🐍 GitHub Contribution Snake
 
 <picture>
@@ -120,16 +127,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/shakilsarkar12/shakilsarkar12/blob/dist/github-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://github.com/shakilsarkar12/shakilsarkar12/blob/dist/github-snake.svg" />
 </picture>
-
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F00FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+🙏" alt="Typing SVG" />
-  </a>
-</h1>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Shoot+me+a+message+on+LinkedIn!+📬;Thanks+for+visiting+my+profile+🙏" alt="Typing SVG" />
-  </a>
-</h1>
