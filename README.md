@@ -37,24 +37,27 @@
 
 <p align="center">
   <a href="mailto:shakil.sarkar1932@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-shakil.sarkar1932@gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
-  <a href="https://shakilsarkar12.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://github.com/shakilsarkar12">
+    <img src="https://img.shields.io/badge/GitHub-%40shakilsarkar12-lightgrey?style=flat-square&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/md-shakil-sarkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Md%20Shakil%20Sarkar-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/md.shakilsarker.5832" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/md.shakilsarker.5832">
+    <img src="https://img.shields.io/badge/Facebook-%40shakilsarkar-blue?style=flat-square&logo=facebook" alt="Facebook" />
   </a>
-  <a href="https://github.com/shakilsarkar12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.youtube.com/@BanglaWebSchool">
+    <img src="https://img.shields.io/badge/YouTube-Bangla%20Web%20School-red?style=flat-square&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://www.youtube.com/channel/UCE6HZTPYEjrY7YJ15osFd1g">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.facebook.com/groups/your-group-id">
+    <img src="https://img.shields.io/badge/Facebook%20Group-Shakil%20Sarkar%20Group-blue?style=flat-square&logo=facebook" alt="Facebook Group" />
   </a>
+  <br />
+  <img src="https://img.shields.io/badge/Phone-01777853072-green?style=flat-square&logo=whatsapp" alt="Phone" />
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
