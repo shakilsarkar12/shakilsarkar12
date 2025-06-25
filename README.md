@@ -51,9 +51,6 @@
   <a href="https://www.youtube.com/@BanglaWebSchool">
     <img src="https://img.shields.io/badge/YouTube-Bangla%20Web%20School-red?style=flat-square&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://www.facebook.com/groups/your-group-id">
-    <img src="https://img.shields.io/badge/Facebook%20Group-Shakil%20Sarkar%20Group-blue?style=flat-square&logo=facebook" alt="Facebook Group" />
-  </a>
   <br />
   <img src="https://img.shields.io/badge/Phone-01777853072-green?style=flat-square&logo=whatsapp" alt="Phone" />
 </p>
